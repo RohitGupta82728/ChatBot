@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/drawable/receive_round_box.xml" value="0.2265" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/drawable/round_button.xml" value="0.2265" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/drawable/send_round_box.xml" value="0.2265" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout-large/activity_main_normal.xml" value="0.190625" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout-small/activity_main_small.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout-small/message_item_small.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout-xlarge/activity_main_xl.xml" value="0.2" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout-xlarge/message_item_xl.xml" value="0.38125" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout/message_item.xml" value="1.6892857142857143" />
+        <entry key="..\:/Users/coolr/AndroidStudioProjects/ChatBot/app/src/main/res/layout/message_item_normal.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
